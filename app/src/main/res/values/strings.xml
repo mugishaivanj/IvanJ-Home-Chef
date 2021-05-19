@@ -1,0 +1,12 @@
+<resources>
+
+
+    <string name="app_name">IvanJ Home Chef</string>
+    <string name="title">Categories</string>
+    <string name="youtube">YouTube</string>
+    <string name="Name">Category Name</string>
+    <string name="ingredients">IvanJ Home Chef ingredients</string>
+    <string name="recipe">All IvanJ Recipes</string>
+    <string name="instruction">IvanJ Home Chef Manual</string>
+
+</resources>
